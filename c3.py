@@ -1235,3 +1235,5 @@ for i in range(0,len(text)):
 
 print(message)
 #print(re.sub(r"!|@|#|$|%|^|&|*|(|)|_|+","","!h@e#l$p"))
+
+# Solution: equality
